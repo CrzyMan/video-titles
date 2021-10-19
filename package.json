@@ -1,0 +1,17 @@
+{
+  "name": "video-titles",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "svelte": "^3.42.6"
+  },
+  "type": "module",
+  "dependencies": {
+    "@sveltejs/adapter-netlify": "^1.0.0-next.0"
+  }
+}
